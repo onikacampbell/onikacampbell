@@ -18,7 +18,7 @@ This section highlights hands-on IT labs and projects focused on troubleshooting
 ## ☁️ Microsoft Azure
 
 - [Active Directory in Azure Virtual Machines](https://github.com/onikacampbell/azure-active-directory) *(In Progress)*
-- Network Security Groups (NSGs) & Inspecting Network Protocols *(Coming Soon)*
+- [Network Security Groups (NSGs) & Inspecting Network Protocols](https://github.com/onikacampbell/azure-network-security-groups) *(Coming Soon)*
 
 ---
 
