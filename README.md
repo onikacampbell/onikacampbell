@@ -2,31 +2,33 @@
 
 **U.S. Navy Veteran ⚓ | CompTIA Security+ Certified | IT Support | Cloud | Cybersecurity**
 
-I'm an IT professional with a strong interest in IT support. This portfolio showcases hands-on labs and projects I've completed while developing practical skills in Microsoft Azure, Active Directory, networking, help desk support, and Governance, Risk, and Compliance (GRC).
+I'm an IT professional with a strong interest in IT support. This portfolio showcases hands-on labs and projects focused on Microsoft Azure, Active Directory, help desk support, networking, and Governance, Risk, and Compliance (GRC).
 
 ---
 
 # 💻 Information Technology Projects
 
-This section highlights hands-on IT labs and projects focused on troubleshooting, system administration, cloud computing, networking, and technical support.
+This section highlights hands-on IT labs and projects focused on troubleshooting, cloud computing, networking, and technical support.
 
 ## 🖥️ Help Desk Ticketing System (osTicket)
 
-- [osTicket: Prerequisites & Installation](https://github.com/onikacampbell-sec/osTicket-prerequisites-and-installation) *(In Progress)*
-- [osTicket: Ticket Lifecycle](https://github.com/onikacampbell-sec/osTicket-ticket-lifecycle) *(In Progress)*
+- [osTicket: Prerequisites & Installation](https://github.com/onikacampbell/osTicket-prerequisites-and-installation) *(In Progress)*
+- [osTicket: Ticket Lifecycle](https://github.com/onikacampbell/osTicket-ticket-lifecycle) *(In Progress)*
 
 ## ☁️ Microsoft Azure
 
-- [Active Directory in Azure Virtual Machines](https://github.com/onikacampbell-sec/azure-active-directory) *(In Progress)*
+- [Active Directory in Azure Virtual Machines](https://github.com/onikacampbell/azure-active-directory) *(In Progress)*
 - Network Security Groups (NSGs) & Inspecting Network Protocols *(Coming Soon)*
+
 ---
 
 # 📊 Governance, Risk & Compliance (GRC) Projects
 
 ## 📁 NovaTech Data Systems — Enterprise GRC Program *(Simulated Capstone)*
 
-Repository:
-https://github.com/onikacampbell-sec/novatech-grc-capstone
+**Repository:**
+
+https://github.com/onikacampbell/novatech-grc-capstone
 
 ### Included
 
@@ -70,16 +72,6 @@ https://github.com/onikacampbell-sec/novatech-grc-capstone
 
 ---
 
-# 🔐 Security Projects
-
-## 📁 ESP32 Intrusion Detection & Alert System *(Coming Soon)*
-
-## 📁 ESP32 Camera Surveillance & Remote Monitoring *(Coming Soon)*
-
-## 📁 ESP32 IoT Device Configuration & Security *(Coming Soon)*
-
----
-
 # 📜 Certifications
 
 - ✅ CompTIA Security+
@@ -91,4 +83,4 @@ https://github.com/onikacampbell-sec/novatech-grc-capstone
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Onika%20Campbell-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onikacampbell)
 
-[![GitHub](https://img.shields.io/badge/GitHub-onikacampbell--sec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onikacampbell-sec)
+[![GitHub](https://img.shields.io/badge/GitHub-onikacampbell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onikacampbell)
