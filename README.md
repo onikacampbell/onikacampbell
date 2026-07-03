@@ -83,4 +83,4 @@ https://github.com/onikacampbell/novatech-grc-capstone
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Onika%20Campbell-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onikacampbell)
 
-[![GitHub](https://img.shields.io/badge/GitHub-onikacampbell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onikacampbell)
+
