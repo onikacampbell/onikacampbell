@@ -1,8 +1,8 @@
 # 👋🏽 Hi, I'm Onika Campbell
 
-**U.S. Navy Veteran ⚓ | CompTIA Security+ Certified | IT Support | Cloud | Cybersecurity**
+**U.S. Navy Veteran ⚓ | CompTIA Security+ Certified | IT Support | Azure | GRC**
 
-I'm an IT professional with a strong interest in IT support. This portfolio showcases hands-on labs and projects focused on Microsoft Azure, Active Directory, help desk support, networking, and Governance, Risk, and Compliance (GRC).
+I'm an IT professional with a strong interest in IT support and GRC. This portfolio showcases hands-on labs and projects focused on help desk support, Microsoft Azure, Active Directory, networking, and Governance, Risk, and Compliance (GRC).
 
 ---
 
